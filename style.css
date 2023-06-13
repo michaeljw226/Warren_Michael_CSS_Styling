@@ -1,0 +1,31 @@
+.myCloud {
+    background-color: black;
+    font-size: large;
+    font: 100;
+}
+.myStyling {
+    text-align: left;
+    color: white;
+    
+}
+.cloudStyling {
+    text-align: left;
+    color: aqua;
+}
+.projectsStyling {
+    background-color: rebeccapurple;
+    font-size: medium;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    font-style: italic;
+    
+}
+.contactStyling {
+    background-color: #9FC5F8 ;
+    color: navy;
+    text-decoration:underline;
+    text-align: right;
+}
+
+
